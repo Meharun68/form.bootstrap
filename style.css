@@ -1,0 +1,37 @@
+.container{
+    height: 100vh;
+    width: 800px;
+}
+.row{
+    background-color: rgb(202, 211, 211);
+  
+}
+.col-6{
+    height: 100vh;
+}
+.bg-1{
+    background-color: rgb(88, 156, 219);
+    line-height: 40px;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+.fa-twitter{
+    margin-right: 5px;
+    padding: 8px;
+
+}
+.bg-2{
+    background-color: rgb(22, 87, 153);
+    line-height: 40px;
+    color: white;
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+
+}
+.fa-facebook{
+    margin-right: 5px;
+    padding: 8px;
+}
